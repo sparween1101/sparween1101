@@ -1,6 +1,1 @@
-- 👋 Hi, Shabnam Parween. A software engineer
-- 👀 I’m interested in software engineering. 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
-
-<!---
+- 👋 Hi, Shabnam Parween. I am a software engineer. 
