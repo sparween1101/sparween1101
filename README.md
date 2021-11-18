@@ -1,0 +1,6 @@
+- 👋 Hi, Shabnam Parween. I am also known as Daisy among friends and family.
+- 👀 I’m interested in software engineering. 
+- 🌱 I’m currently learning ...
+- 📫 How to reach me ...
+
+<!---
