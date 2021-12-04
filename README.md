@@ -1,1 +1,2 @@
-- 👋 Hi, Shabnam Parween. I am a software engineer. 
+- 👋 Hi, I am Shabnam Parween.
+-  I am a software engineer. 
