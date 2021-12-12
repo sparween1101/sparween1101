@@ -12,13 +12,13 @@ You can always reach me here,
 
 ## Technologies
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
+![Java](https://img.shields.io/badge/-Java-ADD8E6?style=flat-square&logo=Java&&logoColor=red)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-beige?style=flat-square&logo=spring-boot)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&&logoColor=blue)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20kafka-231F20?style=flat-square&logo=Apache%20kafka)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=Red%20Hat%20Open%20Shift)
 ![Redis](https://img.shields.io/badge/-redis-white?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-green?style=flat-square&logo=google-cloud)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Grafana](https://img.shields.io/badge/-Grafana-white?style=flat-square&logo=Grafana)
