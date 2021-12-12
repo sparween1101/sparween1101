@@ -26,8 +26,13 @@ You can always reach me here,
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-a7a7a7?style=flat-square&logo=jenkins)
 
+### When I am not coding,
 
+I use embroidery and sketching as a tool for thinking and relaxing.
   
-  
-![GitHub Shabnam](https://img.shields.io/github/followers/sparween1101?style=social)
+Check out my work here,
+[![Instagram Badge](https://img.shields.io/badge/-_daisy.creates_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_daisy.creates_/)](https://instagram.com/_daisy.creates_)
+
+#
+![GitHub Shabnam](https://img.shields.io/github/followers/sparween1101?style=social) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sparween1101.sparween1101)
