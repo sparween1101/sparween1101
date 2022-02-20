@@ -34,7 +34,7 @@ You can always reach me here,
 I use embroidery and sketching as a tool for thinking and relaxing.
   
 Check out my work here,
-[![Instagram Badge](https://img.shields.io/badge/-_daisy.creates_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_daisy.creates_/)](https://instagram.com/_daisy.creates_)
+[![Instagram Badge](https://img.shields.io/badge/-_joy_in_mundane_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joy_in_mundane/)](https://instagram.com/joy_in_mundane)
 
 #
 ![GitHub Shabnam](https://img.shields.io/github/followers/sparween1101?style=social) 
